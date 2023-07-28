@@ -18,4 +18,4 @@ String ------(string module contains a single utility function - capwords(s, sep
 nltk-----( Natural Language Toolkit, is a Python package that you can use for NLP. A lot of the data that you could be analyzing is unstructured data and contains human-readable text. Before you can analyze that data programmatically, you first need to preprocess it.)
 
 
-To Run the program use this :- streamlit run app.py in the terminal.
+To Run the program use this :- streamlit run spam_classifier_app.py in the terminal.
